@@ -1,3 +1,16 @@
 /TicTacToe/nbproject/private/
 /TicTacToe/build/
 /TicTacToe/dist/
+/Millionaire/nbproject/private/
+/Millionaire/build/
+/test/nbproject/private/
+/PassGen/nbproject/private/
+/PassGen/build/
+/2048/nbproject/private/
+tictactoe/tictactoe.iml
+tictactoe/src/main.java
+tictactoe/src/gui.java
+tictactoe/.idea/workspace.xml
+tictactoe/.idea/vcs.xml
+tictactoe/.idea/modules.xml
+tictactoe/.idea/misc.xml
